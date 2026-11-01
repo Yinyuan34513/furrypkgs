@@ -1,0 +1,12 @@
+name=file
+version=5.47
+description=file: 文件类型识别工具 (magic 数据库)
+arch=x86_64
+format=v2
+payload=file-5.47.tar.zst
+sha256=ab902db647d520b41619a91c6c16c43020e075cdbdf9145c6db793390c99e780
+size=654919
+files=9
+depends=
+source=https://github.com/file/file
+built=2026-11-01
