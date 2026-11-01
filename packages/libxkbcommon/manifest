@@ -1,0 +1,12 @@
+name=libxkbcommon
+version=1.13.1
+description=libxkbcommon: XKB 键盘布局解析库
+arch=x86_64
+format=v2
+payload=libxkbcommon-1.13.1.tar.zst
+sha256=a3919b05a3130cc7166f526c5c7cc75cf68154e218785880cd068c7fb27e9dd3
+size=384795
+files=10
+depends=xkeyboard-config
+source=https://xkbcommon.org
+built=2026-11-01

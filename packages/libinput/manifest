@@ -1,0 +1,12 @@
+name=libinput
+version=1.31.3
+description=libinput: 输入设备事件接口库
+arch=x86_64
+format=v2
+payload=libinput-1.31.3.tar.zst
+sha256=c74a478811c47aeddb73f84ed9469a8b36aace9c29b7f4e17361eedeacedf727
+size=749297
+files=105
+depends=libevdev mtdev systemd
+source=https://wayland.freedesktop.org/libinput
+built=2026-11-01

@@ -1,0 +1,12 @@
+name=pixman
+version=0.46.4
+description=pixman: 2D 光栅化引擎
+arch=x86_64
+format=v2
+payload=pixman-0.46.4.tar.zst
+sha256=88e9545d2473d9a9c173fbc6b0529995804fe341137d95f228dd3079c36411e2
+size=1764158
+files=4
+depends=
+source=https://www.freedesktop.org/wiki/Software/Pixman
+built=2026-11-01

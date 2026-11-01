@@ -1,0 +1,12 @@
+name=libevdev
+version=1.13.4
+description=libevdev: 输入设备事件处理库
+arch=x86_64
+format=v2
+payload=libevdev-1.13.4.tar.zst
+sha256=ad7fa2fb291fcc3be1174bf083d7c577b148fccb89e0a127eab0e72537402527
+size=190666
+files=13
+depends=
+source=https://www.freedesktop.org/software/libevdev
+built=2026-11-01

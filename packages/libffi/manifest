@@ -1,0 +1,12 @@
+name=libffi
+version=3.5.2
+description=libffi: 外部函数接口库（wayland 依赖）
+arch=x86_64
+format=v2
+payload=libffi-3.5.2.tar.zst
+sha256=30b99e8023a0cbe92d0984cc68fccd90ebe33e8c7970067aa708adb387aa76a0
+size=48811
+files=11
+depends=
+source=https://github.com/libffi/libffi
+built=2026-11-01

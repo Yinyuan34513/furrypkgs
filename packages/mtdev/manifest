@@ -1,0 +1,12 @@
+name=mtdev
+version=1.1.7
+description=mtdev: 多点触摸协议解析库
+arch=x86_64
+format=v2
+payload=mtdev-1.1.7.tar.zst
+sha256=166671cfa7fa1b0cb80c35a0e42ae12786c0420b08fb739eccf71aea7ff0bbff
+size=60526
+files=8
+depends=
+source=https://bitbucket.org/stephane/mtdev
+built=2026-11-01

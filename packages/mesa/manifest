@@ -1,0 +1,12 @@
+name=mesa
+version=26.2.6
+description=mesa: OpenGL/GLES 驱动（softpipe 软件渲染）
+arch=x86_64
+format=v2
+payload=mesa-26.2.6.tar.zst
+sha256=adedefdf2ef2f7f21b1d64148cc7512e44e41a39312238aa3a6cace2ae230c49
+size=20174737
+files=13
+depends=libdrm expat
+source=https://www.mesa3d.org
+built=2026-11-01

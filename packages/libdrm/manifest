@@ -1,0 +1,12 @@
+name=libdrm
+version=2.4.134
+description=libdrm: DRM 内核接口用户态库（核心）
+arch=x86_64
+format=v2
+payload=libdrm-2.4.134.tar.zst
+sha256=2b31d4d740db3879fab386d0dd0c79d50fcbf71b2b54ec3152d07256ab8071df
+size=234744
+files=24
+depends=
+source=https://dri.freedesktop.org/libdrm
+built=2026-11-01

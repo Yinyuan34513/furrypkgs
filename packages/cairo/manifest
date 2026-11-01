@@ -1,0 +1,12 @@
+name=cairo
+version=1.18.4
+description=cairo: 2D 图形接口（最小配置，无 freetype/GL）
+arch=x86_64
+format=v2
+payload=cairo-1.18.4.tar.zst
+sha256=840e1705cf50b02d5af30e060ac971f532b2e1431ad2038e84768dac80b3387c
+size=1225043
+files=20
+depends=pixman libpng
+source=https://cairographics.org
+built=2026-11-01

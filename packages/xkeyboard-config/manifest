@@ -1,0 +1,12 @@
+name=xkeyboard-config
+version=2.48
+description=xkeyboard-config: XKB 键盘布局数据库
+arch=x86_64
+format=v2
+payload=xkeyboard-config-2.48.tar.zst
+sha256=a37d48db5348de274627b8fde3df5504cdc67bc0d942614e2817503e66a5fd5d
+size=876147
+files=386
+depends=
+source=https://gitlab.freedesktop.org/xorg/xkeyboard-config
+built=2026-11-01

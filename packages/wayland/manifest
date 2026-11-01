@@ -1,0 +1,12 @@
+name=wayland
+version=1.26.0
+description=wayland: 显示服务器协议与协议栈
+arch=x86_64
+format=v2
+payload=wayland-1.26.0.tar.zst
+sha256=235d8a3f02e012fc0db2b2d6f0e8888f8e0667c0f816e6ff8b038ac2557e6814
+size=317536
+files=27
+depends=libffi expat
+source=https://wayland.freedesktop.org
+built=2026-11-01

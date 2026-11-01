@@ -1,0 +1,12 @@
+name=libpng
+version=1.6.59
+description=libpng: PNG 图像编解码库
+arch=x86_64
+format=v2
+payload=libpng-1.6.59.tar.zst
+sha256=75adc2d6887a1ee9a3e6b7f09f114c5b3484c987cc5fe02304ed8aeea8fe676a
+size=214068
+files=20
+depends=zlib
+source=https://libpng.org
+built=2026-11-01

@@ -1,0 +1,12 @@
+name=seatd
+version=0.9.3
+description=seatd: 座席守护进程 + libseat 库
+arch=x86_64
+format=v2
+payload=seatd-0.9.3.tar.zst
+sha256=de687708b1996989af26baab8e05e49032e265ae41e6c99a78a88c8b730b46c7
+size=69388
+files=5
+depends=systemd
+source=https://gitlab.freedesktop.org/seat/seatd
+built=2026-11-01

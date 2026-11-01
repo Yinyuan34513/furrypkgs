@@ -1,0 +1,12 @@
+name=libdisplay-info
+version=0.2.0
+description=libdisplay-info: EDID/DP 时序解析库
+arch=x86_64
+format=v2
+payload=libdisplay-info-0.2.0.tar.zst
+sha256=8b4554c3cc3d67a5ba8c30875fa6afb41dcca01a535960f6b6ad30a7d4bb7f24
+size=167904
+files=10
+depends=
+source=https://gitlab.freedesktop.org/emersion/libdisplay-info
+built=2026-11-01
