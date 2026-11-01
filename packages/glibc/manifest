@@ -1,0 +1,12 @@
+name=glibc
+version=2.40
+description=glibc: GNU C 库 (C 标准库/动态链接器)
+arch=x86_64
+format=v2
+payload=glibc-2.40.tar.zst
+sha256=95fbf4b57f491312347ac3dccd408136f6557744c0e07e1bc519361ecec5e1d7
+size=21906602
+files=1447
+depends=
+source=https://gnu.org/glibc
+built=2026-11-01

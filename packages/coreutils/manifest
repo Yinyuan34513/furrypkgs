@@ -1,0 +1,12 @@
+name=coreutils
+version=9.5
+description=coreutils: GNU 核心工具 (ls/cp/mv/cat/mkdir)
+arch=x86_64
+format=v2
+payload=coreutils-9.5.tar.zst
+sha256=0d388746cdb51b2c8a56be7862edefd4c57c3c9c6221c1b70b57cb6d71ae148b
+size=6219727
+files=258
+depends=libselinux
+source=https://gnu.org/coreutils
+built=2026-11-01

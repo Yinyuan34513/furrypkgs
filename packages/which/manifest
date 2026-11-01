@@ -1,0 +1,12 @@
+name=which
+version=2.25
+description=which: 查找可执行命令路径
+arch=x86_64
+format=v2
+payload=which-2.25.tar.zst
+sha256=67b9c4f10d87832c7be82fb5697f486dbd410a2f6a94ecd4107fcf317a00f41a
+size=35067
+files=3
+depends=
+source=https://gnu.org/which
+built=2026-11-01

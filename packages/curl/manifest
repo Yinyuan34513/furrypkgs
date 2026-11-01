@@ -1,0 +1,12 @@
+name=curl
+version=8.13.0
+description=curl: 完整版网络工具 (https/HTTP)
+arch=x86_64
+format=v2
+payload=curl-8.13.0.tar.zst
+sha256=d95d034df1820d292b97dad8da1f12c8c116d5d1d3fc4abc6f4adfc15d1b7ba6
+size=872674
+files=527
+depends=openssl zlib
+source=https://curl.se
+built=2026-11-01

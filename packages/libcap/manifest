@@ -1,0 +1,12 @@
+name=libcap
+version=2.71
+description=libcap: POSIX 能力库 (Linux capabilities)
+arch=x86_64
+format=v2
+payload=libcap-2.71.tar.zst
+sha256=21d1a4e52b4b7e5f78bda276a19ada4284bccc4d259d908b15017d4f917eef71
+size=83052
+files=92
+depends=
+source=https://kernel.org/pub/linux/libs/security/linux-privs/libcap2
+built=2026-11-01

@@ -1,0 +1,12 @@
+name=libxcrypt
+version=4.4.36
+description=libxcrypt: 现代 libcrypt (SHA-512/Yescrypt)
+arch=x86_64
+format=v2
+payload=libxcrypt-4.4.36.tar.zst
+sha256=f9ffe33c9e458da2b7c3c4b82d1a28cc99f92eb015d3b3c9b94e2a3f451f2a8d
+size=319948
+files=16
+depends=
+source=https://github.com/besser82/libxcrypt
+built=2026-11-01

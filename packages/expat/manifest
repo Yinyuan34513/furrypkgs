@@ -1,0 +1,12 @@
+name=expat
+version=2.6.4
+description=expat: 流式 XML 解析库
+arch=x86_64
+format=v2
+payload=expat-2.6.4.tar.zst
+sha256=7fe017a4bfd3efd856e21e6deda6a5cc26389a94895c51d4961b0fca78bfd47c
+size=112134
+files=13
+depends=
+source=https://github.com/libexpat/libexpat
+built=2026-11-01

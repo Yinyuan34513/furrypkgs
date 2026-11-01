@@ -1,0 +1,12 @@
+name=git
+version=2.49.0
+description=git: 分布式版本控制系统
+arch=x86_64
+format=v2
+payload=git-2.49.0.tar.zst
+sha256=2a71bd210ae22760020d2da4020996a520450678463d8e9a5c1ca9590da77676
+size=45471808
+files=319
+depends=curl openssl zlib
+source=https://kernel.org/pub/software/scm/git
+built=2026-11-01

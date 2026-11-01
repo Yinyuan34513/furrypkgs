@@ -1,0 +1,12 @@
+name=ncurses
+version=6.5
+description=ncurses: 终端控制库 (libtinfo/libncurses)
+arch=x86_64
+format=v2
+payload=ncurses-6.5.tar.zst
+sha256=1c41a5855a2396fae59b70e65a8a310572a5a33d8ece5a7afb4657b431a14f65
+size=1785200
+files=32
+depends=
+source=https://gnu.org/ncurses
+built=2026-11-01

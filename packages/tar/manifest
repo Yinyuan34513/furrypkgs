@@ -1,0 +1,9 @@
+name=tar
+version=1.35
+description=tar: GNU 归档工具 (fpt v2 引导包, 链接 zstd)
+arch=x86_64
+format=v1-files
+files=47
+depends=zstd
+source=https://gnu.org/tar
+built=2026-11-01

@@ -1,0 +1,12 @@
+name=systemd
+version=257.6
+description=systemd: 系统/服务管理器 (PID 1/logind/journald)
+arch=x86_64
+format=v2
+payload=systemd-257.6.tar.zst
+sha256=b5c9b667776b8469c622f21f5584e8c53dd1eb55bca57b2ae3a9c59e062d8b9f
+size=16138916
+files=725
+depends=libcap
+source=https://github.com/systemd/systemd
+built=2026-11-01

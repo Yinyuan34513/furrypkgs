@@ -1,0 +1,9 @@
+name=zstd
+version=1.5.7
+description=zstd: 高压缩比压缩库与 CLI (fpt v2 引导包)
+arch=x86_64
+format=v1-files
+files=12
+depends=
+source=https://github.com/facebook/zstd
+built=2026-11-01

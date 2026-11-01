@@ -1,0 +1,12 @@
+name=bash
+version=5.2.37
+description=bash: Bourne-Again Shell (交互/脚本 shell)
+arch=x86_64
+format=v2
+payload=bash-5.2.37.tar.zst
+sha256=6b5c17a040e91861a081521ec2e1c0ae5e3bead2d5444609b6cf505d76f1d046
+size=3059180
+files=153
+depends=ncurses
+source=https://gnu.org/bash
+built=2026-11-01

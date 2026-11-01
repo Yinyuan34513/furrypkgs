@@ -1,0 +1,12 @@
+name=pcre2
+version=10.44
+description=pcre2: PCRE2 正则表达式引擎 (8/16/32 位)
+arch=x86_64
+format=v2
+payload=pcre2-10.44.tar.zst
+sha256=5a64879e1ea56434cc4efca52cce323e557971ad147bfe89d4d4604145447a96
+size=914318
+files=228
+depends=
+source=https://github.com/PCRE2Project/pcre2
+built=2026-11-01

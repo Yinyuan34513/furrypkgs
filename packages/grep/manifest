@@ -1,0 +1,12 @@
+name=grep
+version=3.11
+description=grep: GNU 文本搜索工具 (PCRE2 支持)
+arch=x86_64
+format=v2
+payload=grep-3.11.tar.zst
+sha256=fe67358b9419b95c623aa42a94cfe185037f367fa2d5cfaa966170fdf1cf77fb
+size=456675
+files=50
+depends=pcre2
+source=https://gnu.org/grep
+built=2026-11-01

@@ -1,0 +1,12 @@
+name=kbd
+version=2.7.1
+description=kbd: 键盘/控制台风工具 (loadkeys/fixfont)
+arch=x86_64
+format=v2
+payload=kbd-2.7.1.tar.zst
+sha256=49258cb5c9b27aa9d771b57e252dd8b764630ee67dff8914a9edbfcd848fbb1b
+size=1248873
+files=711
+depends=
+source=https://kernel.org/pub/linux/utils/kbd
+built=2026-11-01

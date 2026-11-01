@@ -1,0 +1,12 @@
+name=util-linux
+version=2.40.2
+description=util-linux: Linux 系统工具集 (mount/lsblk/uuid)
+arch=x86_64
+format=v2
+payload=util-linux-2.40.2.tar.zst
+sha256=4f8490683a8d00e31e43c7162dad8a59f0cbc383cf374bbe59eec6e29dff6beb
+size=9673044
+files=427
+depends=libcap libxcrypt
+source=https://kernel.org/pub/linux/utils
+built=2026-11-01

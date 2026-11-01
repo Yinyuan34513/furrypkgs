@@ -1,0 +1,12 @@
+name=openssl
+version=3.5.1
+description=openssl: OpenSSL 密码学工具包 (TLS/SSL)
+arch=x86_64
+format=v2
+payload=openssl-3.5.1.tar.zst
+sha256=33d7fa55189a878d58e65de7bd21ea941a7eda14113b65f42f55a189dfdd4f47
+size=5698017
+files=164
+depends=
+source=https://github.com/openssl/openssl
+built=2026-11-01

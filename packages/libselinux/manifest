@@ -1,0 +1,12 @@
+name=libselinux
+version=3.11
+description=libselinux: SELinux 安全策略库
+arch=x86_64
+format=v2
+payload=libselinux-3.11.tar.zst
+sha256=389164bdcbdd3773f4d1019072e9586195b2bc4f469b69b5b268aac4ed5358e3
+size=248580
+files=290
+depends=
+source=https://github.com/SELinuxProject/selinux
+built=2026-11-01

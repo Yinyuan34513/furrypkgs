@@ -1,0 +1,12 @@
+name=dbus
+version=1.13.6
+description=dbus: D-Bus 消息总线 (system bus)
+arch=x86_64
+format=v2
+payload=dbus-1.13.6.tar.zst
+sha256=8cc1986d9c3a1a0b6de324a0703861afd061b8f73cfed2f607cae551a748370e
+size=451940
+files=50
+depends=expat
+source=https://www.freedesktop.org/wiki/Software/dbus
+built=2026-11-01

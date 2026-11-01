@@ -1,0 +1,12 @@
+name=linux-pam
+version=1.6.1
+description=Linux-PAM: 可插拔认证模块 (login/su 认证)
+arch=x86_64
+format=v2
+payload=linux-pam-1.6.1.tar.zst
+sha256=dbee6a02593848872bbbd90d6cfd453e0078ec0dbfcdf4beb9aed81a17e78e8b
+size=779337
+files=300
+depends=libxcrypt
+source=https://github.com/linux-pam/linux-pam
+built=2026-11-01
